@@ -1,4 +1,4 @@
-# Digital-Frame-Traffic# IoT Traffic Analysis Project
+# Digital-Frame-Traffic: IoT Traffic Analysis Project
 
 ## Inception
 While conducting a routine network scan with `nmap`, I identified a device on my home network that raised suspicion.  
