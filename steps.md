@@ -1,7 +1,7 @@
 # IoT Traffic Analysis – Steps
 
 This file outlines the main steps I’ll follow to investigate the network behavior of the digital picture frame I discovered.  
-The goal is to keep the flow high-level: what I’m doing and why, without diving into exact commands yet.  
+The goal is to keep the flow high-level: what I’m doing and why.
 
 ---
 
